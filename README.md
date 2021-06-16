@@ -12,7 +12,7 @@ pip install torch torchvision
 
 ## Usage
 
-use train.py to train model
+Use train.py to train model
 
 
 Move the *saved model* folder into the *neural_style* folder.
