@@ -12,10 +12,10 @@ pip install torch torchvision
 
 ## Usage
 ```console
-python download_saved_models.py
+use train.py to train model
 ```
 
-Move the *saved_models* folder into the *neural_style* folder.
+Move the *saved model* folder into the *neural_style* folder.
 
 Run
 ```console
